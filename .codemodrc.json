@@ -1,0 +1,17 @@
+{
+  "$schema": "https://codemod-utils.s3.us-west-1.amazonaws.com/configuration_schema.json",
+  "name": "rekaUI-v2/radix-vue-1-reka-ui-import-update",
+  "version": "1.0.0",
+  "engine": "jscodeshift",
+  "private": false,
+  "arguments": [],
+  "meta": {
+    "tags": [
+      "vue",
+      "radix",
+      "radix-vue v2",
+      "import statements"
+    ],
+    "git": "https://github.com/dfordp/rekaUI-v2-radix-vue-1-reka-ui-import-update"
+  }
+}
